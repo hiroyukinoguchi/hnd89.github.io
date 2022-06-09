@@ -42,8 +42,8 @@ a:hover {
 	padding-bottom: 120px;
 }
 .intro p {
-	font-size: 66px;
-	line-height: 72px;
+	font-size: 52px;
+	line-height: 66px;
 	letter-spacing: -0.5px;
 	padding-left: 13%;
 	padding-right: 280px;
@@ -84,16 +84,16 @@ a:hover {
 }
 
 .description_pj01 p {
-	font-size: 20px;
-	line-height: 30px;
+	font-size: 18px;
+	line-height: 26px;
 	-webkit-font-smoothing: antialiased;
 }
 
 .description_pj01 h1 {
 	font-weight: normal;
-	font-size: 46px;
+	font-size: 40px;
 	letter-spacing: -0.5px;
-	padding-bottom: 10px;
+	padding-bottom: 20px;
 	-webkit-font-smoothing: antialiased;
 }
 
@@ -171,16 +171,16 @@ a:hover {
 }
 
 .description_pj02 p {
-	font-size: 20px;
-    	line-height: 30px;
+	font-size: 18px;
+    	line-height: 26px;
 	-webkit-font-smoothing: antialiased;
 }
 
 .description_pj02 h1 {
 	font-weight: normal;
-	font-size: 46px;
+	font-size: 40px;
 	letter-spacing: -0.5px;
-	padding-bottom: 10px;
+	padding-bottom: 20px;
 	-webkit-font-smoothing: antialiased;
 }
 
@@ -263,8 +263,8 @@ a:hover {
     margin: 0 auto;
     padding-bottom: 44px;
     padding-top: 140px;
-    font-size: 20px;
-    line-height: 28px;
+    font-size: 18px;
+    line-height: 26px;
     overflow:auto;
 }
 .left {
