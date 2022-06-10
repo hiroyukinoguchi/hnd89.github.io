@@ -16,6 +16,7 @@ li{
 
 a {
 	color: black;
+	text-decoration: none;
 }
 a:hover {
 	color: gray;
@@ -30,7 +31,13 @@ a:hover {
 .container {
 	width: 100%;
 }
-
+.return {
+	font-size: 40px;
+	padding-left: 13%;
+	padding-right: 13%;
+	padding-top: 40px;
+	-webkit-font-smoothing: antialiased;
+}
 
 
 /*HEADER*/
@@ -85,7 +92,7 @@ a:hover {
 
 .description_pj01 p {
 	font-size: 18px;
-	line-height: 26px;
+	line-height: 24px;
 	-webkit-font-smoothing: antialiased;
 }
 
@@ -102,13 +109,12 @@ a:hover {
 	border: none;
 	color: #ffffff;
 	border-radius: 2px;
-	padding: 14px 20px;
+	padding: 16px 20px;
 	text-align: center;
 	text-decoration: none;
 	display: inline-block;
 	font-size: 16px;
-	margin-top: 32px;
-	-webkit-font-smoothing: antialiased;
+	margin-top: 40px;
 }
 
 .cta_disabled {
@@ -172,7 +178,7 @@ a:hover {
 
 .description_pj02 p {
 	font-size: 18px;
-    	line-height: 26px;
+    	line-height: 24px;
 	-webkit-font-smoothing: antialiased;
 }
 
@@ -233,7 +239,7 @@ a:hover {
 	width: 100%;
 	max-width: 1800px;
 	margin: 0 auto;
-	padding-top: 160px;
+	padding-top: 60px;
 }
 .title p {
 	font-size: 44px;
