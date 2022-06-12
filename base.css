@@ -242,8 +242,8 @@ a:hover {
 	padding-top: 60px;
 }
 .title p {
-	font-size: 44px;
-	line-height: 52px;
+	font-size: 40px;
+	line-height: 48px;
 	padding-left: 13%;
 	padding-right: 13%;
 	-webkit-font-smoothing: antialiased;
@@ -296,6 +296,12 @@ a:hover {
     background-color: #F6F6F6;
     padding: 60px 0 60px 0;
 }
+.nlo_img02{
+    width: 100%;
+    max-width: 1800px;
+    margin: 0 auto;
+    background-color: #F6F6F6;
+}
 .img_in{
     padding-left: 13%;
     padding-right: 13%;
@@ -304,6 +310,9 @@ a:hover {
     width: 100%;
 }
 .nlo_img01 video{
+    width: 100%;
+}
+.nlo_img02 img{
     width: 100%;
 }
 
